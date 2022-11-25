@@ -7,15 +7,27 @@ td {text-align: center;}
 table {/* To change appearance of table */ 
     border: 2px dashed black;}
 
-p {font-family: Verdana, Geneva, Tahoma, sans-serif}
-#table {background-color: beige;
+p {font-family: 'Verdana', Geneva, Tahoma, sans-serif}
+
+.table {background-color: beige;
 color: blue;}
 
-.lists {
+.table td {font-size: 18px;}
+
+.table th {font-size: 22px;}
+
+.lists li {
     color: beige;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
+
+.lists ul {
+    color: beige;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
 body {background-color: skyblue;}
 
 h3 {font-size: 24px;
