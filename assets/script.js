@@ -1,3 +1,8 @@
-var feedback = prompt("What do you think could be better?");
+alert("This is my first webpage using HTML & CSS")
 
-console.log(prompt +feedback);
+var validation = confirm("Do you want to view my webpage?")
+
+var feedback = prompt("What do you think could improve?")
+
+alert(validation);
+alert(feedback);
