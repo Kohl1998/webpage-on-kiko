@@ -4,9 +4,9 @@
 
 This application is for users who need information on where to source vintage clothes, along with instructions on how to wash denim jeans correctly. Also, there are backlinks for users who are interested in purchasing designer items that are denim.  
 
-## Installation
+## Screenshot
 
-N/A
+[![kiko-webpage.jpg](https://i.postimg.cc/GpCJRB88/kiko-webpage.jpg)](https://postimg.cc/ZWwyF5L4)
 
 ## Usage
 
@@ -14,8 +14,9 @@ This information is accessible for the users on the landing page in the form of 
 
 ## Credits
 
-N/A
+I used Youtube - https://www.youtube.com
+I used Hex Color codes - https://htmlcolorcodes.com/
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Mit license
